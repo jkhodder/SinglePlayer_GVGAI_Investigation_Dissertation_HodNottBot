@@ -2,7 +2,7 @@
 
 This repository is used to store all files and directories related to my Masters Dissertation at the University of Nottingham
 
-Within this repository is an IntelliJ project containing the following:
+Within this repository is a directory named gvgai-framework2016, which is an IntelliJ project containing the following:
 - The GVGAI competition framework
 - Sample controllers for analysis and comparison, these are contained within the src folder
 - HodNottBot implementation, contained in the src folder, and contains the implemented agent and an additional agent made for feature extraction
